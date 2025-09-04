@@ -13,9 +13,7 @@
 Reflective listening means listening carefully and mirroring both the words and emotions the speaker shows to make sure you understand.   
 
 ### According to Fisher’s model, key points of Reflective Listening:  
-- Listen to words and feelings both.  
-- Mirror what you hear and feel.  
-- Repeat or summarize to confirm.  
+- Listen to words and feelings both.    
 - Ask questions to clear doubts.
 - Helps build trust and avoid confusion.  
 
@@ -27,8 +25,7 @@ Reflective listening means listening carefully and mirroring both the words and 
 
 ### How to improve listening:  
 - Clear your mind and focus only on speaker.  
-- Be patient and don’t interrupt.  
-- Keep eye contact and open posture.    
+- Be patient and don’t interrupt.     
 - Remove distractions.  
 
 ## 4. Types of Communication  
@@ -53,9 +50,6 @@ Reflective listening means listening carefully and mirroring both the words and 
 - Giving silent treatment when upset.  
 
 ## 8. How to make communication assertive:  
-- Speak honestly and kindly.  
 - Use “I” statements, not blame.  
 - Listen carefully to others.  
-- Stay calm and open.  
-- Practice saying no when needed.  
-- Prepare before tough talks.  
+- Stay calm and open.   
