@@ -1,25 +1,61 @@
 # Listening and Active Communication
 
-* Steps to do Active Listening  
-Pay full attention, show interest, don’t interrupt, reflect back, ask questions, and give feedback.
+## 1. Active Listening
+### What are the steps/strategies to do Active Listening? (Minimum 6 points)
+1. **Pay full attention** - Focus completely on the speaker without distractions.  
+2. **Show interest** - Use eye contact, nodding, and body language to show you are listening.  
+3. **Avoid interrupting** - Let the speaker finish before responding.  
+4. **Reflect back** - Paraphrase or summarize what the speaker said to confirm understanding.  
+5. **Ask questions** - Clarify any confusing points by asking open-ended questions.  
+6. **Provide feedback** - Give positive and encouraging responses to make the speaker comfortable.
 
-* Key points of Reflective Listening (Fisher’s model)  
-Listen with empathy, mirror feelings and words, confirm understanding, ask questions, and build trust.
+## 2. Reflective Listening  
+Reflective listening means listening carefully and mirroring both the words and emotions the speaker shows to make sure you understand.   
 
-* Obstacles in listening  
-Distractions, interrupting, judging, external noise, and personal biases.
+### According to Fisher’s model, key points of Reflective Listening:  
+- Listen to words and feelings both.  
+- Mirror what you hear and feel.  
+- Repeat or summarize to confirm.  
+- Ask questions to clear doubts.
+- Helps build trust and avoid confusion.  
 
-* How to improve listening  
-Focus fully, don’t interrupt, keep eye contact, paraphrase, and reduce distractions.
+## 3. Reflection  
+### Obstacles in listening:  
+- Getting distracted or thinking of what to say next.  
+- Interrupting the speaker.  
+- Judging too soon.    
 
-* When do you switch to Passive communication  
-When avoiding conflict or feeling unsure.
+### How to improve listening:  
+- Clear your mind and focus only on speaker.  
+- Be patient and don’t interrupt.  
+- Keep eye contact and open posture.    
+- Remove distractions.  
 
-* When do you switch to Aggressive communication  
-When frustrated, stressed, or wanting control.
+## 4. Types of Communication  
+- **Passive:** Avoid sharing opinions or needs.  
+- **Aggressive:** Forcefully share opinions, may disrespect others.  
+- **Passive Aggressive:** Indirect anger, sarcasm, or silent treatment.  
+- **Assertive:** Share thoughts clearly and respectfully.  
 
-* When do you switch to Passive Aggressive communication  
-When feeling angry but not expressing it directly, using sarcasm or silent treatment.
+## 5. When do you switch to Passive communication style?  
+- To avoid conflict.  
+- When unsure or scared of rejection.  
+- Putting others first a lot.  
 
-* How to make communication assertive  
-Speak clearly and respectfully, use “I” statements, listen actively, stay calm, and practice saying no confidently.
+## 6. When do you switch to Aggressive communication style?  
+- When angry or frustrated.  
+- When wanting to control others.  
+- Under stress or pressure.  
+
+## 7. When do you switch to Passive Aggressive communication style?  
+- Using sarcasm to hide anger.  
+- Gossiping or making jokes to hurt indirectly.  
+- Giving silent treatment when upset.  
+
+## 8. How to make communication assertive:  
+- Speak honestly and kindly.  
+- Use “I” statements, not blame.  
+- Listen carefully to others.  
+- Stay calm and open.  
+- Practice saying no when needed.  
+- Prepare before tough talks.  
